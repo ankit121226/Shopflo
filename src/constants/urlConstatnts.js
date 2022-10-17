@@ -1,0 +1,1 @@
+export const RANDON_COLOR_URL = 'https://random-flat-colors.vercel.app/api/random?count=5'

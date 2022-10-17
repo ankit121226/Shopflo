@@ -1,0 +1,35 @@
+.dots-title-search{
+    display: flex;
+}
+.filter-by-txt{
+    font-size: 18px;
+    padding: 16px 0;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    /* flex-basis: 25%; */
+  }
+.color-dots{
+    padding: 10px 0px;
+}
+.dots-grp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dots-and-color{
+    width: 120px;
+}
+.title-subtitle{
+    margin-left: 3rem;
+}
+.progress{
+    display: flex;
+    margin-top: 2rem;
+}
+.button{
+    margin: 1rem 0;
+}

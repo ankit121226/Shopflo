@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  padding: 0 10px;
+  display: flex;
+}
+
+.leftContainer{
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+.rigthContainer{
+  width: 30%;
+}
